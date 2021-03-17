@@ -1,5 +1,5 @@
 body {
-    background: url(assets/img/br.jpg) repeat 0 0;
+    /*background: url(assets/img/br.jpg) repeat 0 0;*/
 }
 
 #header {
@@ -31,7 +31,7 @@ body {
 }
 
 .logo {
-    padding-top: 11px;
+    /*padding-top: 11px;*/
     display: block;
 }
 
@@ -627,4 +627,7 @@ hr.soften {
 #footerMenu a {
     font-size: 12px;
     text-transform: lowercase
+}
+.bold{
+    font-weight: 700;
 }
